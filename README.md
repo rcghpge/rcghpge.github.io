@@ -78,10 +78,11 @@ This template is suitable for:
 
 ---
 
-## Credits and License
+## Acknowledgements and License
 
 This project is derived from **Dimension by HTML5 UP**:
 - **Original Creator**: [HTML5 UP](https://html5up.net)
+- **A Fellow Maverick**: [Jacob Devasier @ GitHub](https://github.com/JDevasier)
 - **License**: Creative Commons Attribution 3.0 ([View License](https://html5up.net/license))
 
 ### Additional Resources
