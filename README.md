@@ -22,8 +22,8 @@ Influenced and inspired by a fellow Maverick and **Dimension theme by HTML5 UP**
 1. Fork this repository to create your own copy on GitHub.
 2. Clone your fork to your local machine:
    ```bash
-   git clone https://github.com/rcghpge/robertcocker.com.git 
-   cd robertcocker.com # See GitHub docs and online sources for CLI workflows @ the command line.
+   git clone https://github.com/rcghpge/web-page-template.git 
+   cd web-page-template # See GitHub docs and online sources for CLI workflows @ the command line.
    ```
 ### Customize
 1. Open **`index.html`**:
