@@ -1,4 +1,4 @@
-# Website Template: https://robertcocker.com
+# Webpage Template
 
 This repository offers a modern and responsive single-page website template designed to help you showcase your skills, achievements, and aspirations. Whether you’re a college student preparing for your first job or a working professional advancing your career, this template is here to support you in building connections and expanding your professional network.
 
