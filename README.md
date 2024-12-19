@@ -23,7 +23,7 @@ Inspired by **Dimension by HTML5 UP**, this template provides a customizable des
 2. Clone your fork to your local machine:
    ```bash
    git clone https://github.com/rcghpge/robertcocker.com.git 
-   cd robertcocker.com # **if curious** See GitHub docs and online sources for CLI workflows @ the command line.
+   cd robertcocker.com # See GitHub docs and online sources for CLI workflows @ the command line.
    ```
 ### Customize
 1. Open **`index.html`**:
