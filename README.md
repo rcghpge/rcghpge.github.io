@@ -6,7 +6,7 @@ This repository offers a modern and responsive single-page website template desi
 
 ## About the Template
 
-Inspired by **Dimension by HTML5 UP**, this template provides a customizable design that’s ideal for creating a strong online presence. Use it to highlight your academic background, projects, career milestones, and more—tailored to your unique journey.
+Influenced and inspired by a fellow Maverick and **Dimension theme by HTML5 UP**, this template provides a customizable design that’s ideal for creating a strong online presence. Use it to highlight your academic background, projects, career milestones, and more—tailored to your unique journey.
 
 ### Features
 - Responsive design for mobile, tablet, and desktop.
