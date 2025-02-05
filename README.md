@@ -103,7 +103,7 @@ If you’re a web developer with insights for optimizing this repository, or if 
 
 - GitHub: [@rcghpge](https://github.com/rcghpge)
 - LinkedIn: [Robert Cocker](https://www.linkedin.com/in/robertcocker)
-- Email: [academia@robertcocker.com](mailto:academia@robertcocker.com)
+- Email: [link](mailto:academia@robertcocker.com)
 
 ---
 
