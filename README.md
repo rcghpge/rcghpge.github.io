@@ -8,11 +8,12 @@ This repository offers a modern and responsive single-page website template desi
 
 Influenced and inspired by a fellow Maverick and **Dimension theme by HTML5 UP**, this template provides a customizable design that’s ideal for creating a strong online presence. Use it to highlight your academic background, projects, career milestones, and more—tailored to your unique journey.
 
-### Features
+### Features 
 - Responsive design for mobile, laptop, tablet, and desktop.
 - Dedicated sections for About Me, Projects, Courses, and Contact.
 - Easy integration with LinkedIn, GitHub, and downloadable resumes.
 - Clean and simple HTML/CSS for quick customization.
+- If you are a fairly skilled programmer, these features are all customizable and you can tailor your page to your preference.
 
 ---
 
