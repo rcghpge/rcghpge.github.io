@@ -13,7 +13,7 @@ Influenced and inspired by a fellow Maverick and **Dimension theme by HTML5 UP**
 - Dedicated sections for About Me, Projects, Courses, and Contact.
 - Easy integration with LinkedIn, GitHub, and downloadable resumes.
 - Clean and simple HTML/CSS for quick customization.
-- All features are customizable. Tailor your page to your preference.
+- All features are customizable. Tailor your page to your story.
 
 ---
 
