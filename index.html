@@ -160,11 +160,21 @@
                      </ul>
                  </article>
             </div>
-
+			
             <!-- Footer -->
             <footer id="footer">
-                <p>&copy; <a href="https://youtu.be/dQw4w9WgXcQ?si=EQdIrn1Fo67qRcui" class="lightsaber-link">2024</a> Robert Cocker</p>
+              <p>
+                &copy; 
+                <a href="https://youtu.be/dQw4w9WgXcQ?si=EQdIrn1Fo67qRcui" 
+                    class="lightsaber-link" id="year">
+                  {{ "now" | date: "%Y" }}
+                </a> 
+                Robert Cocker
+              </p>
             </footer>
+            <script>
+              document.getElementById('year').textContent = new Date().getFullYear();
+            </script>
         </div>
 
         <!-- Background -->
@@ -178,4 +188,5 @@
         <script src="assets/js/main.js"></script>
     </body>
 </html>
+
 
