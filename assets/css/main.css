@@ -1702,39 +1702,34 @@ v				}
 			opacity: 0;
 		}
 
-/* Footer Lightsaber Link (brighter glow) */
-    #footer .lightsaber-link {
-      color: #ffffff; /* White text by default */
-      text-decoration: none;
-      position: relative;
-      transition: color 0.5s ease;
-    }
+/* Footer Glow */
+        #footer .lightsaber-link {
+          color: #ffffff; /* White by default */
+          text-decoration: none;
+          position: relative;
+          transition: color 0.5s ease;
+        }
 
-    #footer .lightsaber-link::after {
-      content: '';
-      position: absolute;
-      left: 0;
-      bottom: -2px; /* Glow just below the text */
-      width: 100%;
-      height: 2px; /* Glow thickness */
-      background-color: #00ff00; /* Bright green glow color */
-      /* Increased glow radius for a higher/brighter effect */
-      box-shadow:
-        0 0 12px #00ff00,
-        0 0 24px #00ff00,
-        0 0 48px #00ff00,
-        0 0 72px #00ff00;
-      opacity: 0; /* Hidden until hover */
-      transition:
-        opacity 1.5s ease,
-        background-color 1.5s ease,
-        box-shadow 1.5s ease;
-      }
+        #footer .lightsaber-link::after {
+          content: '';
+          position: absolute;
+          left: 0;
+          bottom: -2px; 
+          width: 100%;
+          height: 20px; /* thin beam core */
+          background-color: #00ff00; /* neon green core */
+          box-shadow:
+            0 0 10px #00ff00,
+            0 0 20px #00ff00,
+            0 0 30px #00ff00;
+          opacity: 0; /* hidden until hover */
+          transition: opacity 1.5s ease, background-color 1.5s ease, box-shadow 1.5s ease;
+        }
 
-      #footer .lightsaber-link:hover::after {
-        opacity: 1; /* Show glow on hover */
-      }
+        #footer .lightsaber-link:hover::after {
+          opacity: 1; /* show glow on hover */
+        }
 
-      #footer .lightsaber-link:hover {
-        color: #00ff00; /* Match glow on hover */
-      }
+        #footer .lightsaber-link:hover {
+          color: #00ff00; /* match beam color */
+        }
