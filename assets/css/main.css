@@ -1703,14 +1703,14 @@ v				}
 		}
 
 /* Footer Glow */
-        #footer .lightsaber-link {
+        #footer .lightsaber-footer {
           color: #ffffff; /* White by default */
           text-decoration: none;
           position: relative;
           transition: color 0.5s ease;
         }
 
-        #footer .lightsaber-link::after {
+        #footer .lightsaber-footer::after {
           content: '';
           position: fixed;
           left: 0;
@@ -1729,6 +1729,6 @@ v				}
           z-index: 9999;        /* make sure it’s on top */
         }
 
-        #footer .lightsaber-link:hover::after {
+        #footer .lightsaber-footer:hover::after {
           opacity: 1; /* show glow on hover */
         }
