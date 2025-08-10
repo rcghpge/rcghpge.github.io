@@ -1699,3 +1699,30 @@ v				}
    a:hover, .lightsaber-link:hover {
     color: var(--text); /* brighter on hover */
    }
+
+/* Dark/Light Theme - Explicit selectors: html[data-theme="..."] */
+   html[data-theme="light"] {
+    --bg: #ffffff;
+    --text: #111111;
+    --muted: #666666;
+    --accent: var(--muted);            /* links use muted in light */
+    --accent-contrast: #ffffff;
+   }
+
+   html[data-theme="dark"] {
+    --bg: #0b0b0b;
+    --text: #e8e8e8;
+    --muted: #a0a0a0;
+    --accent: var(--muted);            /* links use muted in dark */
+    --accent-contrast: #0b0b0b;
+   }
+
+/* (Optional) subtle hover for links so they still feel clickable */
+   a, .lightsaber-link {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+   }
+   a:hover, a:focus-visible,
+    .lightsaber-link:hover, .lightsaber-link:focus-visible {
+    color: var(--text);
+   }
