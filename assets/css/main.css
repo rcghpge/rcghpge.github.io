@@ -1690,3 +1690,12 @@ v				}
 
    #footer .lightsaber-link:hover::after { opacity: 1; }
    #footer .lightsaber-link:hover { color: var(--accent); }
+
+   a, .lightsaber-link {
+     text-decoration: underline;
+     text-underline-offset: 2px;
+   }
+
+   a:hover, .lightsaber-link:hover {
+    color: var(--text); /* brighter on hover */
+   }
