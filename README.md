@@ -1,4 +1,4 @@
-# Webpage Template 💻
+# webpage
 
 Webpage setup for templating. A wip. Looking to redesign.
 
