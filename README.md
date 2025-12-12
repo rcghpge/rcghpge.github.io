@@ -1,6 +1,6 @@
-# webpage
+# homepage
 
-Webpage setup for templating. A wip. Looking to redesign.
+A wip. Looking to redesign.
 
 HTML5 Up has other webpage templates if you are an advanced programmer in webpage design - [link](https://html5up.net)
 
