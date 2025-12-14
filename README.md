@@ -14,6 +14,15 @@ To develop a custom homepage tailored for you:
 ```bash
 git clone https://github.com/rcghpge/homepage.git
 cd homepage
+
+# Test homepage development locally
+# Python
+python3 -m http.server 8000
+http://localhost:8000
+
+# NodeJS/npm
+npm install -g http-server
+http-server
 ```
 
 ---
