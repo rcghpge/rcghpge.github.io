@@ -31,7 +31,7 @@ http-server
 
 ## References
 
-Original development from **Dimension by HTML5 UP**:
+Original development
 - **HTML5 UP**: [HTML5 UP](https://html5up.net)
 - **Jacob Devasier**: [GitHub](https://github.com/JDevasier)
 - **License**: CC by 4.0 (updated CC), Creative Commons Attribution 3.0 ([View License](https://html5up.net/license))
