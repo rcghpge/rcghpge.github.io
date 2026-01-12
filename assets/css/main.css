@@ -1843,6 +1843,7 @@ v				}
 
   footer {
     margin-top: auto !important;
+    padding-bottom: 0 !important;
     flex-shrink: 0 !important;
   }
 }
