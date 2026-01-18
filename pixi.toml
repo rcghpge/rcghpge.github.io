@@ -1,9 +1,9 @@
 [workspace]
 authors = ["Robert Cocker <rcocker87@gmail.com>"]
 channels = ["conda-forge"]
-name = "homepage"
+name = "rcghpge.github.io"
 platforms = ["linux-64"]
-version = "0.1.1"
+version = "0.1.2"
 
 [tasks]
 

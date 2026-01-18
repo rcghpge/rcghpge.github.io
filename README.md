@@ -14,8 +14,8 @@ HTML5 Up [https://html5up.net](https://html5up.net)
 
 To develop a custom homepage tailored for you:
 ```bash
-git clone https://github.com/rcghpge/homepage.git
-cd homepage
+git clone https://github.com/rcghpge/rcghpge.github.io.git
+cd rcghpge.github.io
 
 # Test homepage development locally
 # Python
