@@ -1,14 +1,14 @@
-# homepage
+# rcghpge.github.io
 
 [![Pixi Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/prefix-dev/pixi/main/assets/badge/v0.json)](https://pixi.sh)
 
-Homepage.
+GitHub homepage.
 
 ---
 
 ## About 
 
-This is my homepage repository. It is a wip
+This is my GitHub homepage repository. It is a wip
 
 HTML5 Up [https://html5up.net](https://html5up.net)
 
