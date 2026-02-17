@@ -8,7 +8,7 @@ GitHub homepage.
 
 ## About 
 
-This is my GitHub homepage repository. It is a wip
+This is my GitHub homepage repository.
 
 HTML5 Up [https://html5up.net](https://html5up.net)
 
