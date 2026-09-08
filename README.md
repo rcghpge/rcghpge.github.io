@@ -17,6 +17,9 @@ To develop a custom homepage tailored for you:
 git clone https://github.com/rcghpge/rcghpge.github.io.git
 cd rcghpge.github.io
 
+# Activate Pixi virtual environment (Installation may be needed. See Pixi docs)
+pixi shell
+
 # Test homepage development locally
 # Python
 python3 -m http.server 8000
